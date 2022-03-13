@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Assistesd projects/Assisted  Practice project/src"/>
+	<classpathentry kind="src" path="EmailValidation/src"/>
+	<classpathentry kind="src" path="filehandle/src"/>
+	<classpathentry kind="src" path="FinalProject/FinalProject/src"/>
+	<classpathentry kind="src" path="LongestIncreasingSub/src"/>
+	<classpathentry kind="output" path="Assistesd projects/Assisted  Practice project/bin"/>
+</classpath>
